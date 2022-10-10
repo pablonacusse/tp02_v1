@@ -43,7 +43,7 @@
  ** 
  ** | RV | YYYY.MM.DD | Autor       | Descripción de los cambios              |
  ** |----|------------|-------------|-----------------------------------------|
- ** |  1 | 2022.08.27 | evolentini  | Version inicial del archivo             |
+ ** |  1 | 2022.10.10 | pablo nacusse  | Version inicial del archivo             |
  ** 
  ** @defgroup plantilla Plantilals de Archivos
  ** @brief Plantillas de archivos normalizadas

@@ -64,9 +64,10 @@ extern "C" {
 
 /* == Declaraciones de tipos de datos publicos ============================= */
 
+//! Estructura que contiene los datos del alumno
 struct alumno_s{
-    char apellido[50];
-    char nombres[50];
+    char apellido[50]; //!< Cadena de caracteres con el apellido del alumno
+    char nombres[50]; //!< Cadena de caracteres con el nombre del alumno
     char documento[10];
 };
 /* === Declaraciones de variables publicas ================================= */
